@@ -1,3 +1,5 @@
+![DevOps Banner](https://raw.githubusercontent.com/Shankar-codes/Shankar-codes/refs/heads/main/DevOps.png)
+
 # 💫 About Me:
 DevOps Engineer with 3.5 years of experience in building and managing cloud-native infrastructure, CI/CD automation, containerized deployments, and scalable production systems. Experienced in Docker containerization, Kubernetes orchestration, AWS cloud infrastructure, Infrastructure as Code using Terraform, and CI/CD automation using Jenkins and GitHub Actions. Strong background in Linux system administration, microservices deployment, monitoring, and log management using Prometheus, Grafana, and ELK stack. Proven ability to improve deployment reliability, reduce manual processes, and build scalable DevOps pipelines for modern web applications.
 
